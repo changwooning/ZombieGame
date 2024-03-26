@@ -9,6 +9,5 @@ abstract public class Player extends Unit{
 		super(x, hp, max);
 		this.count = count;
 	}
-	
 }
 
