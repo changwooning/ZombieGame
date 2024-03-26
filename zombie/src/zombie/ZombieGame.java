@@ -9,5 +9,4 @@ public class ZombieGame {
 	public static void run() {
 		Game.getInstance().run();
 	}
-
 }
