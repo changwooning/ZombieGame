@@ -37,7 +37,6 @@ abstract public class Unit {
 		System.out.println("오른쪽 이동. 현재 위치 : " + x);
 	}
 	
-	
 	public abstract void attact(Unit unit);
 	
 }
