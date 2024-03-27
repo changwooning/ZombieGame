@@ -5,7 +5,7 @@
 게임에 대한 컨셉 및 플레이 설명 
 
 > class Diagram (URM)
-![diagram]()
+![diagram](https://raw.githubusercontent.com/changwooning/ZombieGame/7fbd8f802cae3607b6d85bd6b799599909eea6fa/images/image.png) <br>
 
 > Demo
 ![diagram]()
